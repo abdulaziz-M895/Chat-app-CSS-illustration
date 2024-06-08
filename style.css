@@ -255,6 +255,7 @@ i {
 }
 .simple-booking p {
   color: hsl(270, 7%, 64%);
+  line-height: 1.7;
 }
 @media (max-width: 767px) {
   .simple-booking {
