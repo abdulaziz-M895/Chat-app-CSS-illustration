@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Take a look](https://your-solution-url.com)
-- Live Site URL: [Take a look](https://your-live-site-url.com)
+- Solution URL: [Take a look](https://www.frontendmentor.io/solutions/chat-app-css-illustration-igSfi_aXlH)
+- Live Site URL: [Take a look](https://abdulaziz-m895.github.io/Chat-app-CSS-illustration/)
 
 ## My process
 
